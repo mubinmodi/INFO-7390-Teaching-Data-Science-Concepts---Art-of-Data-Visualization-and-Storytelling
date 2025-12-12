@@ -63,13 +63,6 @@ advanced-data-visualization/
 ├── docs/
 │   ├── Tutorial_Documentation.pdf     # Complete tutorial guide
 │   └── Pedagogical_Report.pdf         # Teaching philosophy & assessment
-│
-├── data/
-│   └── gapminder.csv                  # Sample dataset (or downloads automatically)
-│
-└── assets/
-    ├── diagrams/                      # Visual aids and flowcharts
-    └── examples/                      # Reference visualizations
 ```
 
 ---
