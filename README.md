@@ -1,6 +1,8 @@
 # INFO-7390-Teaching-Data-Science-Concepts---Art-of-Data-Visualization-and-Storytelling
 
-# Advanced Data Visualization Teaching Module 📊
+# Advanced Data Visualization Teaching Module 📊//
+
+Video Link: https://youtu.be/R0tge_8M4Lk
 
 > **Perception-Driven Data Visualization & Storytelling for Data Scientists**
 
